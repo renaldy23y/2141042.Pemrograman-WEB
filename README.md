@@ -10,7 +10,7 @@ Selamat datang di repository Tugas Pemrograman Web!
 
 ## Deskripsi Proyek
 
-Proyek ini berisi kode dan materi pembelajaran untuk mata kuliah Pemrograman Web. Dalam proyek ini, kita akan mempelajari 
+Proyek ini berisi kode dan materi pembelajaran untuk mata kuliah Pemrograman Web. 
 
 - HTML
 - CSS
